@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.19.1](https://github.com/Soju06/codex-lb/compare/v1.19.0...v1.19.1) (2026-05-26)
+
+
+### Bug Fixes
+
+* **proxy:** classify stale Codex websocket anchors ([#801](https://github.com/Soju06/codex-lb/issues/801)) ([93ce129](https://github.com/Soju06/codex-lb/commit/93ce1299a73dab1d2f5231bf4d39fb99d2c135ff))
+
 ## [1.19.0](https://github.com/Soju06/codex-lb/compare/v1.18.2...v1.19.0) (2026-05-25)
 
 
